@@ -1,0 +1,36 @@
+{
+  "name": "location-matching-alogarithm",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victoria-cyb/LOCATION-MATCHING-ALOGARITHM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victoria-cyb/LOCATION-MATCHING-ALOGARITHM/issues"
+  },
+  "homepage": "https://github.com/Victoria-cyb/LOCATION-MATCHING-ALOGARITHM#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-jwt": "^8.5.1",
+    "mongoose": "^8.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
